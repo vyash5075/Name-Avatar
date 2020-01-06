@@ -6,4 +6,4 @@ create a website using javascript and ajax. Here, u put name and it shows u a av
 * Javascript
 * Ajax
 ## [API Resource](https://joeschmoe.io)
-# Deployed[ Here ](https://vyash5075.github.io/Name-Avtar/)
+# Deployed[ Here ](https://vyash5075.github.io/Name-Avatar/)
